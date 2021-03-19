@@ -8,7 +8,7 @@ homepage: "https://github.com/jchavarri/jsoo-react"
 bug-reports: "https://github.com/jchavarri/jsoo-react/issues"
 depends: [
   "dune" {>= "2.7" & >= "2" & < "3"}
-  "ocaml" {>= "4.10.0" & < "4.11.0"}
+  "ocaml" {>= "4.10.0" & < "4.12.0"}
   "js_of_ocaml" {>= "3.7.0" & < "3.8.0"}
   "gen_js_api" {>= "1.0.6" & < "1.1.0"}
   "ocaml-migrate-parsetree" {>= "1.7.3" & < "2.0.0"}
